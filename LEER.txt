@@ -1,0 +1,15 @@
+creategame.php - php que crea juegos
+createuser.php - php que crea usuarios
+deletegame.php - php que borra juegos
+deleteuser.php - php que borra usuarios
+oopCrud.php - clase conexion con metodos CRUD
+showgame.php - mostrar juegos existentes
+showidgame.php - mostrar juego seleccionado
+showiduser.php - mostrar usuario seleccionado
+showuser.php - mostrar usuarios existentes
+updategame.php - actualizar juego
+updateuser.php - actualizar usuario
+
+
+Si no hay juegos o usuarios (por lo menos uno) insertado en la BD
+el php de mostrar todos los usuarios/juegos muestra un error.
